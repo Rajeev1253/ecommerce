@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.Home-img{
+    background-color: #F2F0FF;
+    height: 764px;
+    position: relative;
+    
+}
+.lamp{
+    margin-left:70px;
+    background-color:transparent ;
+}
+.text-part{
+    position: absolute;
+    top:243px;
+    left:375px;
+}
+.text-part>p{
+    color:#FB2E86;
+    font-weight: 700;
+
+}
+.text-heading{
+    width: 644px;
+    height: 140px;
+}
+.text-heading>p{
+font-family: "Josefin Sans";
+font-size: 53px;
+font-style: normal;
+font-weight: 700;
+
+letter-spacing: 0.795px
+}
+.text-heading>span{
+    display: inline-block;
+    font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px;
+color:#8A8FB9;
+}
+.text-heading>button{
+    width: 163px;
+height: 50px;
+border-radius: 2px;
+background: var(--Accent, #FB2E86);
+border: 2px #FB2E86;
+color:white;
+font-size: 17px;
+font-weight: 600;
+letter-spacing: 0.34px;
+}
+.armchair{
+    position: absolute;
+    left: 1051px;
+    top:39px;
+    background-color:  #F2F0FF;
+}
+.Featured-Product{
+ color: #1A0B5B;
+font-size: 42px;
+font-weight: 700;
+text-align: center;
+padding-top: 129px;
+}
